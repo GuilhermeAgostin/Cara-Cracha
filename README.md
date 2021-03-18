@@ -8,7 +8,7 @@
 
 * Crie os objetos Java e rode os métodos implementados.
 
-* Armazene a classe elaborada no seu git e poste aqui o link do seu github ou gitlab
+* Armazene a classe elaborada no seu git e poste aqui o link do seu github ou gitlab.
 
 
 ### Escolha:
